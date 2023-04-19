@@ -1,0 +1,2 @@
+MutationReturnStmtCommand#org.apache.commons.math.optimization.RealPointValuePair#lines 69-69#[return point.clone();
+]

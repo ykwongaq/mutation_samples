@@ -1,0 +1,1 @@
+MutationConditionalNegationCommand#org.apache.commons.math.analysis.polynomials.PolynomialFunction#lines 68-68#[c.length < 1]

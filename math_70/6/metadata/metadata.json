@@ -1,0 +1,1 @@
+{"metadataPath":"math_70\\6\\metadata","instructions":[{"pathInTarget":"src\\main\\java\\org\\apache\\commons\\math\\linear\\AbstractRealMatrix.java","instructionType":"ADD","pathInMetadata":"src\\main\\java\\org\\apache\\commons\\math\\linear\\AbstractRealMatrix.java"}],"fixedPath":"math_70\\fix","buggyPath":"math_70\\6\\bug"}

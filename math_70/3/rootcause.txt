@@ -1,0 +1,2 @@
+MutationReturnMathCommand#org.apache.commons.math.analysis.ComposableFunction#lines 224-224#[return Math.cos(d);
+]

@@ -1,0 +1,1 @@
+{"metadataPath":"math_70\\12\\metadata","instructions":[{"pathInTarget":"src\\main\\java\\org\\apache\\commons\\math\\ode\\nonstiff\\GraggBulirschStoerIntegrator.java","instructionType":"ADD","pathInMetadata":"src\\main\\java\\org\\apache\\commons\\math\\ode\\nonstiff\\GraggBulirschStoerIntegrator.java"}],"fixedPath":"math_70\\fix","buggyPath":"math_70\\12\\bug"}

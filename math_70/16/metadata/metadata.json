@@ -1,0 +1,1 @@
+{"metadataPath":"math_70\\16\\metadata","instructions":[{"pathInTarget":"src\\main\\java\\org\\apache\\commons\\math\\fraction\\Fraction.java","instructionType":"ADD","pathInMetadata":"src\\main\\java\\org\\apache\\commons\\math\\fraction\\Fraction.java"}],"fixedPath":"math_70\\fix","buggyPath":"math_70\\16\\bug"}

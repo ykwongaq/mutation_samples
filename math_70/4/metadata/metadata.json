@@ -1,0 +1,1 @@
+{"metadataPath":"math_70\\4\\metadata","instructions":[{"pathInTarget":"src\\main\\java\\org\\apache\\commons\\math\\optimization\\direct\\DirectSearchOptimizer.java","instructionType":"ADD","pathInMetadata":"src\\main\\java\\org\\apache\\commons\\math\\optimization\\direct\\DirectSearchOptimizer.java"}],"fixedPath":"math_70\\fix","buggyPath":"math_70\\4\\bug"}

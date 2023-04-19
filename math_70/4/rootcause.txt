@@ -1,0 +1,2 @@
+MutationReturnMathCommand#org.apache.commons.math.optimization.direct.DirectSearchOptimizer#lines 285-286#[return (goalType == GoalType.MINIMIZE) ? Double.compare(v1,v2) : Double.compare(v2,v1);
+]

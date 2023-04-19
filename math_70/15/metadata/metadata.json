@@ -1,0 +1,1 @@
+{"metadataPath":"math_70\\15\\metadata","instructions":[{"pathInTarget":"src\\main\\java\\org\\apache\\commons\\math\\genetics\\BinaryChromosome.java","instructionType":"ADD","pathInMetadata":"src\\main\\java\\org\\apache\\commons\\math\\genetics\\BinaryChromosome.java"}],"fixedPath":"math_70\\fix","buggyPath":"math_70\\15\\bug"}

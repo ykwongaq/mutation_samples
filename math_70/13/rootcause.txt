@@ -1,0 +1,1 @@
+MutationConditionalNegationCommand#org.apache.commons.math.fraction.Fraction#lines 266-266#[den == 0]
